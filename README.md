@@ -12,7 +12,7 @@ Complete FastAPI application with professional folder structure and user authent
 - CORS middleware
 - Comprehensive error handling
 
-## Folder Structure
+<!-- ## Folder Structure
 
 ```
 Chainly_backend/
@@ -51,7 +51,7 @@ Chainly_backend/
 ├── .env.example                     # Environment variables template
 └── README.md                        # This file
 
-```
+``` -->
 
 ## Installation
 
@@ -86,7 +86,7 @@ Application will be available at: `http://localhost:8000`
 
 ## Authentication Endpoints
 
-### Register
+<!-- ### Register
 ```
 POST /api/v1/auth/register
 Content-Type: application/json
@@ -242,7 +242,7 @@ alembic upgrade head
 pytest
 pytest -v  # Verbose output
 pytest --cov=app  # With coverage
-```
+``` -->
 
 ## Development Best Practices
 
